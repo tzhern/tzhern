@@ -2,7 +2,4 @@
 
 ## About Me
 * 🌱 Undergraduate student at The University of Melbourne
-* [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/ztom"
+* [Linkin Profile](https://www.linkedin.com/in/ztom/)
