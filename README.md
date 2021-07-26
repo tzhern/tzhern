@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Tom.
 
 ## About Me
-* 🌱 Undergraduate student at The University of Melbourne
+* 🌱 Undergraduate Data Science student at The University of Melbourne
 * :gem: Data Science Enthusiast
 * :bookmark_tabs: View My [Resume](https://www.overleaf.com/read/zxrnbpmcgmgt)
 * <img src="https://beloservice.files.wordpress.com/2016/03/herrmans-linkedin-logo-500x500.png" 
